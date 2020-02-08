@@ -1,5 +1,6 @@
 # feed-the-ducky ![Build status badge](https://github.com/dvdbrx/feed-the-ducky/workflows/MakeCode/badge.svg)
-
+First project:
+Feed the Ducky strawberries while trying to avoid the Sharkies
 
 
 ## Use this extension
